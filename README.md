@@ -1,8 +1,5 @@
 # BinTree
 
-Assignment 2
-Part 1 (7 pts). Programming
-
 Description:
 
 This project is to create a binary search tree class called BinTree along with some additional functions (remove function is not required).
